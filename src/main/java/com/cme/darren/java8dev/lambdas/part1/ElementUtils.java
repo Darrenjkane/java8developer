@@ -1,4 +1,4 @@
-package com.cme.darren.java8developer.lambdas.part1;
+package com.cme.darren.java8dev.lambdas.part1;
 
 public class ElementUtils {
 
